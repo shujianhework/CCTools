@@ -1,0 +1,16 @@
+plugin
+*.exe
+/frameworks/runtime-src/proj.win32/Debug.win32
+/frameworks/cocos2d-x/cocos/2d/Debug.win32/libcocos2d.tlog/*.lastbuildstate
+/frameworks/cocos2d-x/cocos/editor-support/spine/proj.win32/Debug.win32/libSpine.tlog/*.lastbuildstate
+/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.win32/Debug.win32/libluacocos2d/libluacocos2d.tlog/*.lastbuildstate
+/frameworks/cocos2d-x/external/Box2D/proj.win32/Debug.win32/libbox2d.tlog/*.lastbuildstate
+/frameworks/cocos2d-x/external/bullet/proj.win32/Debug.win32/libbullet.tlog/*.lastbuildstate
+/frameworks/cocos2d-x/external/recast/proj.win32/Debug.win32/librecast.tlog/*.lastbuildstate
+/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.win32/Debug.win32/libsimulator.tlog/*.lastbuildstate
+*.idb
+*.obj
+/frameworks/runtime-src/proj.ios_mac/ios
+ios
+*.tlog
+*.pdb

@@ -1,0 +1,37 @@
+﻿生成启动时间为 2020/7/7 8:35:13。
+     1>项目“E:\mypro\CCTools\ToolsFrame\frameworks\cocos2d-x\external\recast\proj.win32\librecast.vcxproj”在节点 6 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../../ /Zi /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\DetourTileCache\DetourTileCache.cpp ..\DetourTileCache\DetourTileCacheBuilder.cpp ..\Detour\DetourCommon.cpp ..\Detour\DetourNavMesh.cpp ..\Detour\DetourNavMeshBuilder.cpp ..\Detour\DetourNavMeshQuery.cpp ..\Detour\DetourNode.cpp
+         DetourTileCache.cpp
+         DetourTileCacheBuilder.cpp
+         DetourCommon.cpp
+         DetourNavMesh.cpp
+         DetourNavMeshBuilder.cpp
+         DetourNavMeshQuery.cpp
+         DetourNode.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../../ /Zi /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\fastlz\fastlz.c
+         fastlz.c
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"E:\mypro\CCTools\ToolsFrame\frameworks\runtime-src\proj.win32\Debug.win32\librecast.lib" /NOLOGO Debug.win32\DebugDraw.obj
+         Debug.win32\DetourDebugDraw.obj
+         Debug.win32\DetourCrowd.obj
+         Debug.win32\DetourLocalBoundary.obj
+         Debug.win32\DetourObstacleAvoidance.obj
+         Debug.win32\DetourPathCorridor.obj
+         Debug.win32\DetourPathQueue.obj
+         Debug.win32\DetourProximityGrid.obj
+         Debug.win32\DetourTileCache.obj
+         Debug.win32\DetourTileCacheBuilder.obj
+         Debug.win32\DetourAlloc.obj
+         Debug.win32\DetourCommon.obj
+         Debug.win32\DetourNavMesh.obj
+         Debug.win32\DetourNavMeshBuilder.obj
+         Debug.win32\DetourNavMeshQuery.obj
+         Debug.win32\DetourNode.obj
+         Debug.win32\fastlz.obj
+         librecast.vcxproj -> E:\mypro\CCTools\ToolsFrame\frameworks\runtime-src\proj.win32\Debug.win32\librecast.lib
+     1>已完成生成项目“E:\mypro\CCTools\ToolsFrame\frameworks\cocos2d-x\external\recast\proj.win32\librecast.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.22
